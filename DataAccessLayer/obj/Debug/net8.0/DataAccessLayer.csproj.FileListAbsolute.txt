@@ -1,0 +1,34 @@
+D:\SE 5\PRN212\ProductManagementDemo\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\SE 5\PRN212\ProductManagementDemo\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\SE 5\PRN212\ProductManagementDemo\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\SE 5\PRN212\ProductManagementDemo\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.dll
+D:\SE 5\PRN212\ProductManagementDemo\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.pdb
+D:\SE 5\PRN212\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\SE 5\PRN212\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\SE 5\PRN212\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\SE 5\PRN212\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\SE 5\PRN212\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\SE 5\PRN212\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+D:\SE 5\PRN212\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\SE 5\PRN212\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\SE 5\PRN212\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\SE 5\PRN212\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+D:\SE 5\PRN212\ProductManagementDemo\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+D:\SE 5\PRN212\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\phams\Desktop\ProductManagementDemo\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\phams\Desktop\ProductManagementDemo\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+C:\Users\phams\Desktop\ProductManagementDemo\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\phams\Desktop\ProductManagementDemo\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\phams\Desktop\ProductManagementDemo\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.dll
+C:\Users\phams\Desktop\ProductManagementDemo\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.pdb
+C:\Users\phams\Desktop\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\phams\Desktop\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phams\Desktop\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\phams\Desktop\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\phams\Desktop\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\phams\Desktop\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+C:\Users\phams\Desktop\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\phams\Desktop\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\phams\Desktop\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\phams\Desktop\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\phams\Desktop\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
